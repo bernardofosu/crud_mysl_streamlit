@@ -1,0 +1,5 @@
+# how to install in bulk
+# pip install -r requirement.txt
+
+streamlit
+mysql.connector
