@@ -5,7 +5,7 @@ try:
     mydb = mysql.connector.connect(
         host="localhost", 
         user="root",
-        password="20260918",
+        password="202",
         database="crud_new1"
     )
 except mysql.connector.Error as err:
